@@ -1,0 +1,32 @@
+MISSING DATA
+- what percentage of data in each column is missing 
+- is it relevant. can we just fillna
+- how many rows are data NaN for all columns 
+
+YEAR COLUMN 
+- use median -> does not make sense summing up years. Also, median is a better measure of central
+tendency
+
+DESCRIPTIVE ANALYSIS
+
+COMPARE HYPOTHETICAL VIEW WITH THE DATA
+GET DOMAIN KNOWLEDGE AND RELATE IT TO THE DATA
+COMPARE THE PRICE WITH BEDROOMS
+WHY IS A HOUSE BIG AND CHEAP
+WHAT ARE THE MAJOR FACTORS CONSIDERED WHEN BUYING A HOUSE
+DO A HYPOTHETICAL FORMULATION
+
+TEST A HYPOTHESIS
+
+location
+demand levels
+energy effiecony
+
+GET SOME LITERATURE
+
+HISTOGRAM, SCATTER PLOT, HEATMAP ETC. USE ALL OF THEM 
+USE HUE and group parameters
+
+how did the houses change with time eg after 1990, how many bedrooms compared to before
+
+TEST CASES

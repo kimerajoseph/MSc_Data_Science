@@ -1,0 +1,3 @@
+FOR sklearn cosine_similarity, REMOVE ALL NAN
+to compare, data has to be the same dimensions (equal columns) and without NaN
+
