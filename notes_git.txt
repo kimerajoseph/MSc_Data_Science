@@ -1,3 +1,8 @@
 git remote add origin git@github.com:kimerajoseph/MSc_Data_Science.git
 git checkout -b programming_for_data_analytics
+git add .
+git commit -m "Added initial files"
+git push -u origin programming_for_data_analytics
+
+
 
