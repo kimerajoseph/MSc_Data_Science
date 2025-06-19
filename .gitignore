@@ -2,3 +2,8 @@
 notes_git.txt
 *.log
 *.txt
+*.docx
+*.csv
+*.joblib
+*.png
+cleaned_data/
